@@ -1,6 +1,6 @@
 ---
 title: "Produits sucrés"
-order: 7
+order: 8
 in_menu: true
 ---
 ![Texte décrivant l'image]({% link images/produitssucrés.jpg %})

@@ -1,6 +1,6 @@
 ---
 title: "Viandes oeufs poisson"
-order: 8
+order: 9
 in_menu: true
 ---
 ![Texte décrivant l'image]({% link images/viandeoeufspoisson.jpg %})
