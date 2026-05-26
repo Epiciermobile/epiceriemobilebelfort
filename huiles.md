@@ -1,5 +1,5 @@
 ---
-title: "Huile et légumineuses"
+title: "Huiles"
 order: 4
 in_menu: true
 ---
